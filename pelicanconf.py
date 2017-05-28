@@ -4,11 +4,15 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Me'
 SITENAME = 'Prueba'
-SITEURL = ''
+SITEURL = 'http://yamila-moreno.github.io/prueba-pyladies'
 
 PATH = 'content'
 
+THEME = 'attila'
+
 TIMEZONE = 'Europe/Paris'
+
+# RELATIVE_URLS = True
 
 DEFAULT_LANG = 'es'
 
