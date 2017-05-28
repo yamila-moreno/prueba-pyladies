@@ -12,7 +12,7 @@ THEME = 'attila'
 
 TIMEZONE = 'Europe/Paris'
 
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 DEFAULT_LANG = 'es'
 
